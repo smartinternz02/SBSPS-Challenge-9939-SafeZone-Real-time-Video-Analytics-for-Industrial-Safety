@@ -1,5 +1,5 @@
 {
-  "name": "track.it",
+  "name": "EquipmentTracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

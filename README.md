@@ -1,7 +1,7 @@
 
-<img width="100" alt="Screen Shot 2019-06-18 at 9 45 54 PM" src="https://user-images.githubusercontent.com/8366399/59737514-cc875a80-9212-11e9-88a4-de45ad5be5a3.png"> 
+<img width="100" alt="Screen Shot 2019-06-18 at 9 45 54 PM" src="https://user-images.githubusercontent.com/8366399/59737514-cc875a80-9212-11e9-88a4-de45ad5be5a3.png">
 
-### Track.it
+### EquipmentTracker
 Get up-to-date information on all your equipment.
 
 ### Usage
