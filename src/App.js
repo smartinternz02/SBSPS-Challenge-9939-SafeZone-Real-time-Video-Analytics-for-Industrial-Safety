@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { ToolHeader, Button } from '@procore/core-react'
 import { EquipmentCard } from './EquipmentCard'
 import { exampleJSON } from './exampleJSON'
-import "isomorphic-fetch";
+import "whatwg-fetch";
 
 const token = "INSERT_TOKEN_HERE" // After you fetch a new one
 
@@ -10,7 +10,7 @@ class App extends Component {
   refreshEquipment() {
     window.location.reload();
   }
-  
+
   componentWillMount() {
     // this.auth();
   }
