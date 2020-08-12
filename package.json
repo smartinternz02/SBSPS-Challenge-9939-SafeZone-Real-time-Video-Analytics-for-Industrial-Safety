@@ -6,7 +6,7 @@
     "@procore/core-react": "8.20.0",
     "react": "16.13.1",
     "react-dom": "16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "3.4.2",
     "styled-components": "4.4.1",
     "whatwg-fetch": "^3.4.0"
   },
