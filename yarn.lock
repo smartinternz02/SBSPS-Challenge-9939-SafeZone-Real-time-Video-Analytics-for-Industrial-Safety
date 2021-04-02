@@ -2178,10 +2178,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@10.5.0":
-  version "10.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.5.0.tgz#87060acfa24ca58294f4de627e6faa7b6f564b57"
-  integrity sha512-IFe2RDFrCA3ZVW+xSfotoSmTiqSgoLSwW/IF7VA5TU7KJH2RTN5hBspzNn5a374SfZnRcpMimz3dKbNMs1lVIA==
+"@procore/core-css@10.6.0":
+  version "10.6.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.6.0.tgz#f433b943c745ed7e5b3b0619c8a15c803fa02cd0"
+  integrity sha512-m2pyb4BPtyPXm4PGg98RG20wUICrG3tAZU4ms7THO0NkNmcGdNOPwKaOsZOvU7hU5bJF/cWIn5o+ToCe1ntOiw==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -2190,19 +2190,19 @@
   resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.4.0.tgz#18d87eab05eaeb09dcf925fd5913390bc1fcc853"
   integrity sha512-hLc12bpMVVsC0yicfyitXe5C1P9U651vQ0B9o6I3hQ8oCvoSHCmMQeZTkodwkPw7UJNagdp+IXns6yLi23nRfA==
 
-"@procore/core-icons@10.5.0":
-  version "10.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.5.0.tgz#92476db540210b11f81475e51bb82505260b258f"
-  integrity sha512-yM5Ze3IeOd6ymPy3DFko62Vv2IiW1iSkEPDMSjFXO8FFtTP3aF/u7mM69II8m18eFmwfBgKz4yzSHe7JVpz9Fw==
+"@procore/core-icons@10.6.0":
+  version "10.6.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.6.0.tgz#1df0605e48b4e7011b5818ffc6f5abdf61f51aad"
+  integrity sha512-AufKZQlSWR5v0sXzabjVU0ow8H+HPs6NW2sa30pJqeyGsjPfNuAS6ROXVsLMUbCaiZP8xeeG4Jwl/eWq7af1sA==
 
-"@procore/core-react@10.5.0":
-  version "10.5.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.5.0.tgz#54a48dbae717fd694311c653c87ca0031f00c266"
-  integrity sha512-73HtWIOex05eDSnLe1XtoMSXe8PY/Jd1TN+Vrr6OCtZZsZBaHcuSs5JJMOht8dCwyX2bgxK15Fg1lbYLvAlLCg==
+"@procore/core-react@10.6.1":
+  version "10.6.1"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.6.1.tgz#3e6b2034a1448491d36bfc477706d48f97c39882"
+  integrity sha512-ktCCFRQlSo7knKdDvtrmUfmZLR4Q4/BXkb1DmG9+kwrIz1nn41T4Y2va28MONHIYvcaDUm/ptAqtrUVsuuBYIw==
   dependencies:
-    "@procore/core-css" "10.5.0"
+    "@procore/core-css" "10.6.0"
     "@procore/core-i18n-js" "10.4.0"
-    "@procore/core-icons" "10.5.0"
+    "@procore/core-icons" "10.6.0"
     "@tinymce/tinymce-react" "3.10.4"
     axios "0.21.1"
     classnames "2.2.6"
