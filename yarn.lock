@@ -2156,10 +2156,10 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@10.7.0":
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.7.0.tgz#8ef64fa8048674b5641ae78913abb2c79c8d0f37"
-  integrity sha512-GNM90g5tQVPVI9If3q20k0sUDD6rxmepPc+kRdDcLQ0qmsP6XI6pL/PPsnDdc0k3co5p/uYIuqcqkIAk6Q5IqQ==
+"@procore/core-css@10.8.0":
+  version "10.8.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.8.0.tgz#3b61e086d82a7ad576a2fadfe691f67d83d7578e"
+  integrity sha512-/PZzxqotY4A2HlIOZd0pCv68+4kU+hQPDYC+cIpoCVRwUIfrPxAhdQHQqrvRmLYrsO5xxQwYBlYtysY1CUUeSQ==
   dependencies:
     flexboxgrid2 "7.2.1"
 
@@ -2168,24 +2168,24 @@
   resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.7.0.tgz#02fe40885cf162862d0429052ca48471959b1569"
   integrity sha512-1zX3WQLTacrHPilvfDG/b5cyhhILatH+HncMtjMXx8FMoX2yi2Kel+iCloLmlk/+J/9MMIbYfRGjwLqpNP6Cww==
 
-"@procore/core-icons@10.7.0":
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.7.0.tgz#eb45a4fedc75df7ca0cf261ba6ec7c05d9a54cc8"
-  integrity sha512-ZGx0byxSSaT7zrKkmndc/PXFen44+tRE2VSEuTeIVEedhY6YRTesniFh2fL6DaJdwBYAYof+vP4VqLDeHXVBIg==
+"@procore/core-icons@10.8.0":
+  version "10.8.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.8.0.tgz#2ce54256d4b97ad0ae31bc5920a4696a1b3a0157"
+  integrity sha512-4urwoGd/UcQ5DEZf1HfB2+cQRufBd7dflnI0s9DPrweLE3gl8+9L8s9qBdfu4UHxfuUHuzyGJtZrd64/oZY+qw==
 
-"@procore/core-react@10.7.0":
-  version "10.7.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.7.0.tgz#af2df8a2a209b903f5aac885c6982d7a51e4f0fb"
-  integrity sha512-WRgIE0HaktZhLKausVAkY8v05pem7SVzKSQcYMDH2g5aGWYowQkpXEEJIjK+DkihASTBfMjJ0lLGeXX5zwIy5Q==
+"@procore/core-react@10.8.0":
+  version "10.8.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.8.0.tgz#e0b98132d6367c920944686f8a329a7472be25a9"
+  integrity sha512-0TsXDEFwUYwH201xDoOfPO1wMmOk2PIEu0rHRRg6TgNCkxZSje9eOduO9besG6FX/623ZNPHfuEVyE3e4xlHGA==
   dependencies:
-    "@procore/core-css" "10.7.0"
+    "@procore/core-css" "10.8.0"
     "@procore/core-i18n-js" "10.7.0"
-    "@procore/core-icons" "10.7.0"
-    "@tinymce/tinymce-react" "3.10.4"
+    "@procore/core-icons" "10.8.0"
+    "@tinymce/tinymce-react" "3.12.3"
     axios "0.21.1"
     classnames "2.3.1"
     date-fns "2.19.0"
-    date-fns-tz "1.0.12"
+    date-fns-tz "1.1.4"
     intersection-observer "0.12.0"
     lodash.throttle "4.1.1"
     ramda "0.27.1"
@@ -2349,13 +2349,13 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@tinymce/tinymce-react@3.10.4":
-  version "3.10.4"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.10.4.tgz#1efcf3792ee319dbab8bb86b4af723e345155d4a"
-  integrity sha512-4GgNIYezC0UFjXSiTSoT8/x8UmroAYRisZASZlZ+uXTB2qN1JSmVRoOWOQrkV9/XWZkVQQhQiHu2lkQ2PblZVw==
+"@tinymce/tinymce-react@3.12.3":
+  version "3.12.3"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.12.3.tgz#d6f7cc97359d59f95545dda6a9f34ef8f8495812"
+  integrity sha512-jUWBNHIaNR7vnwYRwdCPUVsOqZS8S9/5ryQPLDAVDj3KxHf41twPZJqyc+WXhm8qIAn262MuNhPqum1DEzFeOQ==
   dependencies:
     prop-types "^15.6.2"
-    tinymce "^5.7.0"
+    tinymce "^5.7.1"
 
 "@types/anymatch@*":
   version "1.3.1"
@@ -4720,10 +4720,10 @@ data-urls@^2.0.0:
     whatwg-mimetype "^2.3.0"
     whatwg-url "^8.0.0"
 
-date-fns-tz@1.0.12:
-  version "1.0.12"
-  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.0.12.tgz#2d680e1099767775cff7a30eac34362d52639fed"
-  integrity sha512-Ca+9pjGkU90XDHnclfSjz9o7g/ZqyYyYI0aCYmbf65P75oy8gktuaRslO3UPXl3ADgAnF9/KCykQkpU3/xvtWQ==
+date-fns-tz@1.1.4:
+  version "1.1.4"
+  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.1.4.tgz#38282c2bfab08946a4e9bb89d733451e5525048b"
+  integrity sha512-lQ+FF7xUxxRuRqIY7H/lagnT3PhhSnnvtGHzjE5WZKwRyLU7glJfLys05SZ7zHlEr6RXWiqkmgWq4nCkcElR+g==
 
 date-fns@2.19.0:
   version "2.19.0"
@@ -11999,10 +11999,10 @@ timsort@^0.3.0:
   resolved "https://registry.yarnpkg.com/timsort/-/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
   integrity sha1-QFQRqOfmM5/mTbmiNN4R3DHgK9Q=
 
-tinymce@^5.7.0:
-  version "5.7.0"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.7.0.tgz#bc565877e4041db83848a330dfa7916993110cba"
-  integrity sha512-WikgMpJbqYPaucV3lfstCj+Y4NquZlK61gyuJ2eqDUBlSU+4fFh6rpwnelVTxuvtEyJsAVOl8HZmbzBfDJiLsQ==
+tinymce@^5.7.1:
+  version "5.8.0"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.8.0.tgz#3ffd1d96da2619153bd0bd2023a382052339bb0a"
+  integrity sha512-1bOI3k+1D76rVjAJC3XkHezXJVghurnKBDREF1STHBLTQUY17XTbaDNJUxNgJqJHa2xg1udd5I1bzdfSd77DGw==
 
 tmpl@1.0.x:
   version "1.0.4"
