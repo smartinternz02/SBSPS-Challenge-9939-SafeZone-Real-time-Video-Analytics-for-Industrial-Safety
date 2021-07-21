@@ -2163,24 +2163,24 @@
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@10.11.0":
-  version "10.11.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.11.0.tgz#bd9a7fa7bffecdd1d6b4d4c2c2fb997f834f7a33"
-  integrity sha512-eF9r6HV1rkAJPErOXuyiBnPtxH/YPrk3Mo+1XjbU9m/HX07X9oPfa+D1E6FAUAp0K/D89Xq6E9XhA0U8h1icdg==
+"@procore/core-i18n-js@10.12.0":
+  version "10.12.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.12.0.tgz#3aeed14157876d2f52e6ea91671a0a2e1bb1c96b"
+  integrity sha512-Ns2rydv1CDBVH0gyASSncujPCWGSn9X1trTvj5OUO7InQMJeYXP0mZqCqFUzf4zrAKHXaIvm0bg5CtAMJ2TOsg==
 
-"@procore/core-icons@10.11.0":
-  version "10.11.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.11.0.tgz#d9b3bcf8ca4891aebbe79eb11a55366c55c9d7d7"
-  integrity sha512-8MgFzD0GzGmtv6BuKk01clS5fFv3mMfQI2+MLkv11/MpqyLZQvehzDMzZt1zPBnfuURRiuromgbRKFKTBlCCWw==
+"@procore/core-icons@10.12.0":
+  version "10.12.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.12.0.tgz#a83797c251f6435e86e3de0dbe598c47b82b949c"
+  integrity sha512-QjaePyjRXgBKELRmYgaSrLC34heNEuaOb2s0sLiAdc5pNQMC95pV6ZKloPsCSsAeIVKsmsB5a1Mds4QXBeLxMw==
 
-"@procore/core-react@10.11.0":
-  version "10.11.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.11.0.tgz#5cb678d8fc70cfc7172da6b9aeb51b484884eea1"
-  integrity sha512-rhEd551XzxaE3/ixFDvgMZhwT98i9kaxWy47giH2od2PA1y7QNUhqGDeibn//Cilps69UfDkS9xQ0K2GnDW6Dg==
+"@procore/core-react@10.12.0":
+  version "10.12.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.12.0.tgz#02dba16afb99918e5b5ddfeec1163158454ee880"
+  integrity sha512-QWkbhGIg8gNnXG5JL5Zc1/YuDZnbHH3x8lFix2JxAVSnFBOgtyFDwKpYBhS7mO1aPTDlymptDekisVSJoClN6w==
   dependencies:
     "@procore/core-css" "10.11.0"
-    "@procore/core-i18n-js" "10.11.0"
-    "@procore/core-icons" "10.11.0"
+    "@procore/core-i18n-js" "10.12.0"
+    "@procore/core-icons" "10.12.0"
     "@tinymce/tinymce-react" "3.12.6"
     axios "0.21.1"
     classnames "2.3.1"
