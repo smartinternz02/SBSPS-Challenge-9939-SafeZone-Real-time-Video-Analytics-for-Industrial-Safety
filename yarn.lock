@@ -2156,35 +2156,35 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@procore/core-css@10.11.0":
-  version "10.11.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.11.0.tgz#df3601859a089b90a7c28a1129ce68f4ad601d65"
-  integrity sha512-kHRhOP1NGCXqJc5KS1aXNgtsK4hO5R1o+WCb4gzka0uztefveSjtZpLYWPh+98PgW9fVpcrIfMeeht4EyRlY9w==
+"@procore/core-css@10.13.0":
+  version "10.13.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-css/-/core-css-10.13.0.tgz#c3fe046fe3f1baa96c77685919e1be462f8c7f3f"
+  integrity sha512-VwQpUcMWIRj1w5VZS5k/Go5Ge01PltyMzgockpcsLJDOMN8uLcBJMVN7HyNzHpCK+0LttBaUtjGFeOB+H/vrnw==
   dependencies:
     flexboxgrid2 "7.2.1"
 
-"@procore/core-i18n-js@10.12.0":
-  version "10.12.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.12.0.tgz#3aeed14157876d2f52e6ea91671a0a2e1bb1c96b"
-  integrity sha512-Ns2rydv1CDBVH0gyASSncujPCWGSn9X1trTvj5OUO7InQMJeYXP0mZqCqFUzf4zrAKHXaIvm0bg5CtAMJ2TOsg==
+"@procore/core-i18n-js@10.13.0":
+  version "10.13.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-i18n-js/-/core-i18n-js-10.13.0.tgz#6d0930ffef5ff4d0abf2ce04be36073f5b9628be"
+  integrity sha512-3Rk3yGLLbCmXRiOZEyEomQnZFFHTyxZe9OguF/WKrCgGFkbUtp32uyyz5D1VBldwiOQcTzbkX03V/imA+Lh7vQ==
 
-"@procore/core-icons@10.12.0":
-  version "10.12.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.12.0.tgz#a83797c251f6435e86e3de0dbe598c47b82b949c"
-  integrity sha512-QjaePyjRXgBKELRmYgaSrLC34heNEuaOb2s0sLiAdc5pNQMC95pV6ZKloPsCSsAeIVKsmsB5a1Mds4QXBeLxMw==
+"@procore/core-icons@10.13.0":
+  version "10.13.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-icons/-/core-icons-10.13.0.tgz#c9f15bad93bd5d583cd8caa0611cdafc5a6256a8"
+  integrity sha512-JBrcbHyrrpmPMgYiz+sBAT94K6upDxo4oMPY1NXdwhWVw55SdmOmB8FwUi3sJhJfL7DqXR8akgCSSGa92vBMbw==
 
-"@procore/core-react@10.12.0":
-  version "10.12.0"
-  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.12.0.tgz#02dba16afb99918e5b5ddfeec1163158454ee880"
-  integrity sha512-QWkbhGIg8gNnXG5JL5Zc1/YuDZnbHH3x8lFix2JxAVSnFBOgtyFDwKpYBhS7mO1aPTDlymptDekisVSJoClN6w==
+"@procore/core-react@10.13.0":
+  version "10.13.0"
+  resolved "https://registry.yarnpkg.com/@procore/core-react/-/core-react-10.13.0.tgz#573bb07d9f00dedc6631edeac07e817658005197"
+  integrity sha512-NZQgXz/BUgyjsV6KHsWpbgbz3adLgo4/J/oJhZmDRWk9FV8ijGZ7waIy0ytHL0pobtPqDqvFYK5013PBsnmUFQ==
   dependencies:
-    "@procore/core-css" "10.11.0"
-    "@procore/core-i18n-js" "10.12.0"
-    "@procore/core-icons" "10.12.0"
+    "@procore/core-css" "10.13.0"
+    "@procore/core-i18n-js" "10.13.0"
+    "@procore/core-icons" "10.13.0"
     "@tinymce/tinymce-react" "3.12.6"
     axios "0.21.1"
     classnames "2.3.1"
-    date-fns "2.22.1"
+    date-fns "2.23.0"
     date-fns-tz "1.1.4"
     intersection-observer "0.12.0"
     lodash.throttle "4.1.1"
@@ -4725,10 +4725,10 @@ date-fns-tz@1.1.4:
   resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-1.1.4.tgz#38282c2bfab08946a4e9bb89d733451e5525048b"
   integrity sha512-lQ+FF7xUxxRuRqIY7H/lagnT3PhhSnnvtGHzjE5WZKwRyLU7glJfLys05SZ7zHlEr6RXWiqkmgWq4nCkcElR+g==
 
-date-fns@2.22.1:
-  version "2.22.1"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.22.1.tgz#1e5af959831ebb1d82992bf67b765052d8f0efc4"
-  integrity sha512-yUFPQjrxEmIsMqlHhAhmxkuH769baF21Kk+nZwZGyrMoyLA+LugaQtC0+Tqf9CBUUULWwUJt6Q5ySI3LJDDCGg==
+date-fns@2.23.0:
+  version "2.23.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.23.0.tgz#4e886c941659af0cf7b30fafdd1eaa37e88788a9"
+  integrity sha512-5ycpauovVyAk0kXNZz6ZoB9AYMZB4DObse7P3BPWmyEjXNORTI8EJ6X0uaSAq4sCHzM1uajzrkr6HnsLQpxGXA==
 
 date-now@^0.1.4:
   version "0.1.4"
